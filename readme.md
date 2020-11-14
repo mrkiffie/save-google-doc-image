@@ -4,7 +4,7 @@ This is a repo for managing the source code for a small bookmarklet that I creat
 
 ## Installation and usage
 
-1. Download the latest version of the bookmarklet.
+1. Download the latest version of the [bookmarklet][latest-version].
 2. Create a new bookmark. e.g. "Save Google Doc Images".
 3. Edit the bookmark, replacing the url with the bookmarklet.
 4. Open a google document with an embedded image.
@@ -20,3 +20,5 @@ yarn
 yarn build
 yarn run make-bookmarklet
 ```
+
+[latest-version]: https://github.com/mrkiffie/save-google-doc-image/releases/download/v1.0.0/save-google-doc-image-v1.0.0.zip
